@@ -1,0 +1,58 @@
+[
+    {
+        "_id": 1,
+        "name": "Facebook-Instagram ads",
+        "slots": [ "24*7"
+            
+        ]
+    },
+    {
+        "_id": 2,
+        "name": "Facebook Page Management",
+        "slots": [ "24*7"
+            
+        ]
+    },
+    {
+        "_id": 3,
+        "name": "Canva Design",
+        "slots": [ "24*7"
+            
+        ]
+    },
+    {
+        "_id": 4,
+        "name": "Google Ads",
+        "slots": [ "24*7"
+            
+        ]
+    },
+    {
+        "_id": 5,
+        "name": "YouTube Ads",
+        "slots": [ "24*7"
+            
+        ]
+    },
+    {
+        "_id": 6,
+        "name": "Email Marketing",
+        "slots": [ "24*7"
+            
+        ]
+    },
+    {
+        "_id": 7,
+        "name": "Content Writing",
+        "slots": [ "24*7"
+            
+        ]
+    },
+    {
+        "_id": 8,
+        "name": "Web Analytics and Research",
+        "slots": [
+            
+        ]
+    }
+]

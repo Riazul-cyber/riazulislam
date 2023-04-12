@@ -1,7 +1,6 @@
-import React, { useState } from 'react';
+import React  from 'react';
 import dm11 from '../../../assets/images/dm11.png';
 import {DayPicker } from 'react-day-picker';
-import { format } from 'date-fns';
 
 const AppointmentBanner = ({selectedDate, setSelectedDate}) => {
     
@@ -9,7 +8,7 @@ const AppointmentBanner = ({selectedDate, setSelectedDate}) => {
         <header className='my-6'>
             <div className="hero3">
                 <div className="hero-content flex-col lg:flex-row-reverse">
-                    <img src={dm11} alt='' className="lg:w-1/5 max-w-sm" />
+                    <img src={dm11} alt='' className="lg:w-1/5 max-w-sm ml-24" />
                     <div className='mr=6 rounded-lg lg:flex-row-reverse shadow-2xl'>
                     <DayPicker 
                         mode='single'
